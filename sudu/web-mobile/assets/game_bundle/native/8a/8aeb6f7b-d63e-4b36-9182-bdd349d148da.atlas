@@ -1,0 +1,34 @@
+
+UI_tld.png
+size: 229, 229
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+dg
+  rotate: false
+  xy: 0, 153
+  size: 229, 76
+  orig: 229, 76
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 0, 19
+  size: 213, 60
+  orig: 213, 60
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 0, 10
+  size: 7, 7
+  orig: 9, 9
+  offset: 1, 1
+  index: -1
+guang
+  rotate: false
+  xy: 0, 81
+  size: 223, 70
+  orig: 223, 70
+  offset: 0, 0
+  index: -1

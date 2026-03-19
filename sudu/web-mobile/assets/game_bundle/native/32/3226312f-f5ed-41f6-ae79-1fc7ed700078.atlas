@@ -1,0 +1,13 @@
+
+faguangtishi.png
+size: 232,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+faguang
+  rotate: false
+  xy: 0, 0
+  size: 230, 253
+  orig: 232, 255
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,27 @@
+
+zy_suo.png
+size: 94, 94
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+zy_st
+  rotate: false
+  xy: 0, 0
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+zy_suo
+  rotate: false
+  xy: 0, 37
+  size: 68, 57
+  orig: 68, 57
+  offset: 0, 0
+  index: -1
+zy_t
+  rotate: false
+  xy: 70, 69
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1

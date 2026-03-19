@@ -1,0 +1,97 @@
+
+UI_daojuhd.png
+size: 1174, 1174
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+bjg
+  rotate: false
+  xy: 0, 317
+  size: 841, 857
+  orig: 841, 857
+  offset: 0, 0
+  index: -1
+cd1
+  rotate: false
+  xy: 150, 69
+  size: 50, 61
+  orig: 52, 63
+  offset: 1, 1
+  index: -1
+cd2
+  rotate: false
+  xy: 763, 233
+  size: 62, 82
+  orig: 64, 84
+  offset: 1, 1
+  index: -1
+cd3
+  rotate: false
+  xy: 843, 653
+  size: 50, 61
+  orig: 52, 63
+  offset: 1, 1
+  index: -1
+cd4
+  rotate: false
+  xy: 1014, 762
+  size: 52, 46
+  orig: 54, 48
+  offset: 1, 1
+  index: -1
+cd5
+  rotate: false
+  xy: 763, 185
+  size: 52, 46
+  orig: 54, 48
+  offset: 1, 1
+  index: -1
+cd6
+  rotate: true
+  xy: 150, 15
+  size: 52, 46
+  orig: 54, 48
+  offset: 1, 1
+  index: -1
+eyes1
+  rotate: false
+  xy: 0, 3
+  size: 148, 127
+  orig: 150, 129
+  offset: 1, 1
+  index: -1
+eyes2
+  rotate: false
+  xy: 0, 3
+  size: 148, 127
+  orig: 150, 129
+  offset: 1, 1
+  index: -1
+face
+  rotate: false
+  xy: 843, 847
+  size: 331, 327
+  orig: 333, 329
+  offset: 1, 1
+  index: -1
+gxhf
+  rotate: false
+  xy: 0, 132
+  size: 761, 183
+  orig: 763, 185
+  offset: 1, 1
+  index: -1
+sh
+  rotate: false
+  xy: 843, 810
+  size: 285, 35
+  orig: 287, 37
+  offset: 1, 1
+  index: -1
+zui
+  rotate: false
+  xy: 843, 716
+  size: 169, 92
+  orig: 171, 94
+  offset: 1, 1
+  index: -1
