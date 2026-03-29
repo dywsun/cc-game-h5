@@ -1,0 +1,27 @@
+
+tili.png
+size: 139, 56
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+broken_1
+  rotate: false
+  xy: 103, 2
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: -1
+broken_2
+  rotate: false
+  xy: 66, 2
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+qte_heart
+  rotate: false
+  xy: 2, 2
+  size: 62, 52
+  orig: 62, 52
+  offset: 0, 0
+  index: -1

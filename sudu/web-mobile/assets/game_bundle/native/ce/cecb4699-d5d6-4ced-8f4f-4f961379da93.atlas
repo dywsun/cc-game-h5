@@ -1,0 +1,41 @@
+
+hand.png
+size: 273, 285
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+icon_hand
+  rotate: true
+  xy: 128, 7
+  size: 112, 120
+  orig: 114, 124
+  offset: 2, 4
+  index: -1
+icon_hand_shadow
+  rotate: true
+  xy: 2, 2
+  size: 117, 124
+  orig: 208, 192
+  offset: 46, 36
+  index: -1
+lightPoint_0
+  rotate: true
+  xy: 166, 137
+  size: 36, 39
+  orig: 43, 41
+  offset: 3, 1
+  index: -1
+neweffect_down3
+  rotate: false
+  xy: 2, 121
+  size: 162, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1
+whiteballlight
+  rotate: true
+  xy: 166, 175
+  size: 108, 105
+  orig: 117, 115
+  offset: 5, 5
+  index: -1

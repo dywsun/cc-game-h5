@@ -1,0 +1,76 @@
+
+dating.png
+size: 1461, 780
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+body
+  rotate: true
+  xy: 812, 417
+  size: 361, 503
+  orig: 361, 503
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 812, 85
+  size: 330, 330
+  orig: 330, 330
+  offset: 0, 0
+  index: -1
+mai
+  rotate: false
+  xy: 1317, 224
+  size: 101, 219
+  orig: 103, 221
+  offset: 1, 1
+  index: -1
+xin
+  rotate: false
+  xy: 1324, 156
+  size: 76, 66
+  orig: 78, 68
+  offset: 1, 1
+  index: -1
+xing_D
+  rotate: false
+  xy: 2, 2
+  size: 808, 776
+  orig: 808, 776
+  offset: 0, 0
+  index: -1
+xing_X
+  rotate: true
+  xy: 1144, 251
+  size: 164, 167
+  orig: 164, 167
+  offset: 0, 0
+  index: -1
+y_gebo
+  rotate: false
+  xy: 1317, 605
+  size: 138, 173
+  orig: 138, 173
+  offset: 0, 0
+  index: -1
+yanjing1
+  rotate: false
+  xy: 812, 30
+  size: 270, 53
+  orig: 270, 53
+  offset: 0, 0
+  index: -1
+z_gebo
+  rotate: false
+  xy: 1144, 6
+  size: 178, 216
+  orig: 178, 216
+  offset: 0, 0
+  index: -1
+zui
+  rotate: true
+  xy: 1317, 445
+  size: 158, 142
+  orig: 158, 142
+  offset: 0, 0
+  index: -1
